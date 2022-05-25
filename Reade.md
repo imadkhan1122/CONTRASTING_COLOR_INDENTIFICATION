@@ -1,6 +1,4 @@
-# CONTRASTING_COLOR_INDENTIFICATION
-
-## IMAGE DOMINANT COLORS IDENTIFICATION:
+# IMAGE DOMINANT COLORS IDENTIFICATION:
     1.  In this project I have use KMeans with 5 cluster which  extract dominant colors and 
     its percentage.
     2.  I took two dominant colors by percentage and its color codes.
